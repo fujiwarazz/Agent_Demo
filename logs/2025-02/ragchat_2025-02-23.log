@@ -1,0 +1,154 @@
+[2025-02-23 15:40:59] INFO [RAGChat.setup_logging:87] 日志系统初始化成功，日志文件: d:\deep_learning\codes\agent\logs\2025-02\ragchat_2025-02-23.log
+[2025-02-23 15:41:33] INFO [RAGChat.agent_excute:74] 1,开始调用llms
+[2025-02-23 15:41:51] INFO [RAGChat.agent_excute:79] 1,结束调用llms,共耗时18.281745672225952
+[2025-02-23 15:41:51] INFO [RAGChat.agent_excute:74] 2,开始调用llms
+[2025-02-23 15:41:59] INFO [RAGChat.agent_excute:79] 2,结束调用llms,共耗时8.204785585403442
+[2025-02-23 15:41:59] ERROR [RAGChat.agent_excute:125] agent action call error: 'gbk' codec can't decode byte 0xa1 in position 27: illegal multibyte sequence
+[2025-02-23 15:44:24] INFO [RAGChat.setup_logging:87] 日志系统初始化成功，日志文件: d:\deep_learning\codes\agent\logs\2025-02\ragchat_2025-02-23.log
+[2025-02-23 15:44:41] INFO [RAGChat.agent_excute:74] 1,开始调用llms
+[2025-02-23 15:44:53] INFO [RAGChat.agent_excute:79] 1,结束调用llms,共耗时11.188361644744873
+[2025-02-23 15:44:53] INFO [RAGChat.agent_excute:74] 2,开始调用llms
+[2025-02-23 15:45:14] INFO [RAGChat.agent_excute:79] 2,结束调用llms,共耗时21.903488397598267
+[2025-02-23 15:45:14] INFO [RAGChat.agent_excute:74] 3,开始调用llms
+[2025-02-23 15:45:24] INFO [RAGChat.agent_excute:79] 3,结束调用llms,共耗时9.802337408065796
+[2025-02-23 15:45:24] INFO [RAGChat.agent_excute:74] 4,开始调用llms
+[2025-02-23 15:45:41] INFO [RAGChat.agent_excute:79] 4,结束调用llms,共耗时16.36537790298462
+[2025-02-23 15:45:41] INFO [RAGChat.agent_excute:113] 对于问题帮我写一份钢琴学习计划的结果是：钢琴学习计划已制定完成。以下是详细的学习计划：
+
+1. 初级阶段（0-3个月）
+   - 学习基础乐理知识，包括音符、节拍和简单的音乐术语。
+   - 熟悉钢琴键盘布局，练习手指独立性。
+   - 学习并练习简单的曲目，如《小星星》、《玛丽有只小羊羔》。
+
+2. 中级阶段（3-6个月）
+   - 深入学习乐理知识，如音阶、和弦及其转换。
+   - 练习双手协调，提高演奏速度和准确性。
+   - 尝试更复杂的曲目，如巴赫的《平均律钢琴曲集》中的简单片段。
+
+3. 高级阶段（6个月以上）
+   - 掌握更多高级技巧，如踏板使用、动态变化。
+   - 继续扩展曲目范围，挑战经典作品。
+   - 定期参加音乐会或演出，积累舞台经验。
+
+4. 持续练习与进步
+   - 每天保证至少30分钟的有效练习时间。
+   - 记录练习进度，定期回顾和调整学习计划。
+   - 保持对音乐的热情，享受学习过程。
+[2025-02-23 15:46:49] INFO [RAGChat.agent_excute:74] 1,开始调用llms
+[2025-02-23 15:47:04] INFO [RAGChat.agent_excute:79] 1,结束调用llms,共耗时14.197561264038086
+[2025-02-23 15:47:04] INFO [RAGChat.agent_excute:74] 2,开始调用llms
+[2025-02-23 15:47:14] INFO [RAGChat.agent_excute:79] 2,结束调用llms,共耗时10.187319040298462
+[2025-02-23 15:47:14] INFO [RAGChat.agent_excute:74] 3,开始调用llms
+[2025-02-23 15:47:22] INFO [RAGChat.agent_excute:79] 3,结束调用llms,共耗时8.432125568389893
+[2025-02-23 15:47:22] ERROR [RAGChat.agent_excute:83] 调用结果出错，结果如：{},即将重试
+[2025-02-23 15:47:22] INFO [RAGChat.agent_excute:74] 4,开始调用llms
+[2025-02-23 15:47:41] INFO [RAGChat.agent_excute:79] 4,结束调用llms,共耗时19.056935787200928
+[2025-02-23 15:47:41] INFO [RAGChat.agent_excute:74] 5,开始调用llms
+[2025-02-23 15:47:52] INFO [RAGChat.agent_excute:79] 5,结束调用llms,共耗时10.408765316009521
+[2025-02-23 15:47:52] INFO [RAGChat.agent_excute:74] 6,开始调用llms
+[2025-02-23 15:48:01] INFO [RAGChat.agent_excute:79] 6,结束调用llms,共耗时8.82858657836914
+[2025-02-23 15:48:01] INFO [RAGChat.agent_excute:74] 7,开始调用llms
+[2025-02-23 15:48:11] INFO [RAGChat.agent_excute:79] 7,结束调用llms,共耗时10.280477285385132
+[2025-02-23 15:48:11] INFO [RAGChat.agent_excute:74] 8,开始调用llms
+[2025-02-23 15:48:25] INFO [RAGChat.agent_excute:79] 8,结束调用llms,共耗时14.596874475479126
+[2025-02-23 15:48:25] INFO [RAGChat.agent_excute:74] 9,开始调用llms
+[2025-02-23 15:48:57] INFO [RAGChat.agent_excute:79] 9,结束调用llms,共耗时31.87127661705017
+[2025-02-23 15:48:57] INFO [RAGChat.agent_excute:74] 10,开始调用llms
+[2025-02-23 15:49:15] INFO [RAGChat.agent_excute:79] 10,结束调用llms,共耗时17.434616088867188
+[2025-02-23 15:49:15] INFO [RAGChat.agent_excute:74] 11,开始调用llms
+[2025-02-23 15:50:27] INFO [RAGChat.agent_excute:79] 11,结束调用llms,共耗时72.25803208351135
+[2025-02-23 15:50:27] ERROR [RAGChat.agent_excute:83] 调用结果出错，结果如：{},即将重试
+[2025-02-23 15:50:27] INFO [RAGChat.agent_excute:74] 12,开始调用llms
+[2025-02-23 15:50:41] INFO [RAGChat.agent_excute:79] 12,结束调用llms,共耗时14.112425327301025
+[2025-02-23 15:50:41] ERROR [RAGChat.agent_excute:124] agent action call error: read_file() got an unexpected keyword argument 'name'
+[2025-02-23 16:50:03] INFO [RAGChat.setup_logging:87] 日志系统初始化成功，日志文件: d:\deep_learning\codes\agent\logs\2025-02\ragchat_2025-02-23.log
+[2025-02-23 16:50:19] INFO [RAGChat.setup_logging:87] 日志系统初始化成功，日志文件: d:\deep_learning\codes\agent\logs\2025-02\ragchat_2025-02-23.log
+[2025-02-23 16:50:55] INFO [RAGChat.setup_logging:87] 日志系统初始化成功，日志文件: d:\deep_learning\codes\agent\logs\2025-02\ragchat_2025-02-23.log
+[2025-02-23 16:51:12] INFO [RAGChat.agent_excute:74] 1,开始调用llms
+[2025-02-23 16:51:30] INFO [RAGChat.agent_excute:79] 1,结束调用llms,共耗时18.02998399734497
+[2025-02-23 16:51:30] INFO [RAGChat.agent_excute:74] 2,开始调用llms
+[2025-02-23 16:51:42] INFO [RAGChat.agent_excute:79] 2,结束调用llms,共耗时12.068824529647827
+[2025-02-23 16:51:42] INFO [RAGChat.agent_excute:74] 3,开始调用llms
+[2025-02-23 16:51:50] INFO [RAGChat.agent_excute:79] 3,结束调用llms,共耗时8.239349603652954
+[2025-02-23 16:51:50] INFO [RAGChat.agent_excute:74] 4,开始调用llms
+[2025-02-23 16:52:01] INFO [RAGChat.agent_excute:79] 4,结束调用llms,共耗时10.646191120147705
+[2025-02-23 16:52:01] INFO [RAGChat.agent_excute:74] 5,开始调用llms
+[2025-02-23 16:52:11] INFO [RAGChat.agent_excute:79] 5,结束调用llms,共耗时10.201730251312256
+[2025-02-23 16:52:11] INFO [RAGChat.agent_excute:113] 对于问题帮我生成一份介绍transformer的PPT的结果是：PPT介绍Transformer的文本大纲已完成，包含标题、目录、背景与历史、架构概述、自注意力机制、位置编码、应用、优缺点以及结论，并添加了参考资料幻灯片。
+[2025-02-23 16:52:56] INFO [RAGChat.agent_excute:74] 1,开始调用llms
+[2025-02-23 16:53:07] INFO [RAGChat.agent_excute:79] 1,结束调用llms,共耗时10.671292781829834
+[2025-02-23 16:53:07] INFO [RAGChat.agent_excute:74] 2,开始调用llms
+[2025-02-23 16:53:20] INFO [RAGChat.agent_excute:79] 2,结束调用llms,共耗时12.917676210403442
+[2025-02-23 16:53:20] INFO [RAGChat.agent_excute:74] 3,开始调用llms
+[2025-02-23 16:53:34] INFO [RAGChat.agent_excute:79] 3,结束调用llms,共耗时13.988600492477417
+[2025-02-23 16:53:36] INFO [RAGChat.online_search:55] online_search result:['The DeepSeek-R1 Architecture and Training Process demonstrates how cutting-edge AI models can achieve high reasoning capabilities with cost efficiency. This article takes a deep dive into DeepSeek-R1’s Mixture of Experts (MoE) architecture, explaining its expert routing, parallelization strategy, and model specialization. We also break down its reinforcement learning-based training, covering reward mechanisms, data processing, and optimization techniques that enhance logical reasoning and efficiency. DeepSeek-R1 is a text-generation AI model designed for complex reasoning and logical inference. DeepSeek-R1’s training methodology departs from traditional supervised learning and instead focuses on reinforcement learning (RL) for reasoning. DeepSeek-R1 utilizes reward modeling and reinforcement learning to fine-tune its reasoning abilities. Step 4: Train the model using reinforcement learning to favor high-reward outputs.', 'DeepSeek has introduced an innovative approach to improving the reasoning capabilities of large language models (LLMs) through reinforcement learning (RL), detailed in their recent paper on DeepSeek-R1. The distillation process involves fine-tuning these smaller models with synthetic reasoning data generated by the full DeepSeek-R1, thus preserving high performance at reduced computational cost. Next, you’ll need to pull and run the DeepSeek R1 model locally. "model": "deepseek-r1", This command sends a POST request to the local Ollama server, which processes the prompt using the specified DeepSeek-R1 model and returns the generated response. Commands like vllm serve deepseek-ai/DeepSeek-R1-Distill-Qwen-32B — tensor-parallel-size 2 — max-model-len 32768 — enforce-eager can be used for the distilled versions. RAG app to chat with your PDF files using the DeepSeek R1 model, running locally on your computer.', 'For the past couple of days, people have been going crazy over the new release of the open-weight model DeepSeek-R1 [1], which matches GPT-o1 in performance despite having a much lower training cost. During training, DeepSeek-R1-Zero has developed sophisticated reasoning behaviors such as reflection — where the model revisits and reevaluates its previous steps — and the exploration of alternative approaches to problem-solving. The average response length of DeepSeek-R1-Zero on the training set during the RL process DeepSeek-R1-Zero has impressive performance despite being only trained with Reinforcement Learning (RL). Comparison of DeepSeek-R1-Zero and OpenAI o1 models on reasoning-related benchmarks DeepSeek-R1 aims to improve from the Zero by incorporating a multi-stage post-training process. After fine-tuning DeepSeek-V3-Base on the cold-start data, the authors applied the same large-scale reinforcement learning training process used in R1-Zero.', 'Tutorials MLA is a critical\xa0*architectural innovation\xa0in DeepSeek-R1, introduced initially in DeepSeek-V2 and further refined in R1 designed to optimize the attention mechanism, reducing memory overhead and computational inefficiencies during inference. Architecture and Working of Transformers in Deep Learning Transformers are a type of deep learning model that utilizes self-attention mechanisms to process and generate sequences of data efficiently, capturing long-range dependencies and contextual relationships. Answer: Decide neural network architecture based on the complexity of the problem, available data, computational resources, and experimentation with various architectures.Deciding on the architecture of a neural network involves several considerations to ensure that the model effectively learns from 3 min read', 'By leveraging the deep learning capabilities inherent in larger models like DeepSeek R1, the locally deployable versions can deliver high-performance results without the need for continuous cloud connectivity. In summary, the adoption of locally deployable models as fine-tuned alternatives to the DeepSeek R1 Model offers a compelling solution for organizations seeking to leverage advanced AI capabilities in a secure, efficient, and contextually relevant manner. In conjunction with locally deployable models fine-tuned from the DeepSeek R1, Qwen models can significantly enhance sectors requiring detailed analysis and immediate decision-making, such as real-time language translation or specialized industry diagnostics. While DeepSeek R1 offers a holistic framework capable of handling multifaceted, large-scale operations, locally deployable models thrive in contexts demanding low computational overhead.']
+[2025-02-23 16:53:36] INFO [RAGChat.agent_excute:74] 4,开始调用llms
+[2025-02-23 16:53:57] INFO [RAGChat.agent_excute:79] 4,结束调用llms,共耗时20.68302822113037
+[2025-02-23 16:53:57] INFO [RAGChat.agent_excute:74] 5,开始调用llms
+[2025-02-23 16:54:12] INFO [RAGChat.agent_excute:79] 5,结束调用llms,共耗时15.582818984985352
+[2025-02-23 16:54:12] INFO [RAGChat.agent_excute:74] 6,开始调用llms
+[2025-02-23 16:54:41] INFO [RAGChat.agent_excute:79] 6,结束调用llms,共耗时28.36663246154785
+[2025-02-23 16:54:41] ERROR [RAGChat.agent_excute:83] 调用结果出错，结果如：{},即将重试
+[2025-02-23 16:54:41] INFO [RAGChat.agent_excute:74] 7,开始调用llms
+[2025-02-23 16:55:07] INFO [RAGChat.agent_excute:79] 7,结束调用llms,共耗时26.25580143928528
+[2025-02-23 16:55:07] ERROR [RAGChat.agent_excute:83] 调用结果出错，结果如：{},即将重试
+[2025-02-23 16:55:07] INFO [RAGChat.agent_excute:74] 8,开始调用llms
+[2025-02-23 16:55:35] INFO [RAGChat.agent_excute:79] 8,结束调用llms,共耗时27.679558753967285
+[2025-02-23 16:55:35] ERROR [RAGChat.agent_excute:83] 调用结果出错，结果如：{},即将重试
+[2025-02-23 16:55:35] INFO [RAGChat.agent_excute:74] 9,开始调用llms
+[2025-02-23 16:56:00] INFO [RAGChat.agent_excute:79] 9,结束调用llms,共耗时25.489737510681152
+[2025-02-23 16:56:00] ERROR [RAGChat.agent_excute:83] 调用结果出错，结果如：{},即将重试
+[2025-02-23 16:56:00] INFO [RAGChat.agent_excute:74] 10,开始调用llms
+[2025-02-23 16:56:22] INFO [RAGChat.agent_excute:79] 10,结束调用llms,共耗时21.728516340255737
+[2025-02-23 16:56:22] INFO [RAGChat.agent_excute:74] 11,开始调用llms
+[2025-02-23 16:56:37] INFO [RAGChat.agent_excute:79] 11,结束调用llms,共耗时14.889905452728271
+[2025-02-23 16:56:37] INFO [RAGChat.agent_excute:74] 12,开始调用llms
+[2025-02-23 16:56:57] INFO [RAGChat.agent_excute:79] 12,结束调用llms,共耗时20.619783401489258
+[2025-02-23 16:56:57] ERROR [RAGChat.agent_excute:83] 调用结果出错，结果如：{},即将重试
+[2025-02-23 16:56:57] INFO [RAGChat.agent_excute:74] 13,开始调用llms
+[2025-02-23 16:57:18] INFO [RAGChat.agent_excute:79] 13,结束调用llms,共耗时20.465568780899048
+[2025-02-23 16:57:18] ERROR [RAGChat.agent_excute:83] 调用结果出错，结果如：{},即将重试
+[2025-02-23 16:57:18] INFO [RAGChat.agent_excute:74] 14,开始调用llms
+[2025-02-23 16:57:41] INFO [RAGChat.agent_excute:79] 14,结束调用llms,共耗时22.93097472190857
+[2025-02-23 16:57:41] ERROR [RAGChat.agent_excute:83] 调用结果出错，结果如：{},即将重试
+[2025-02-23 16:57:41] INFO [RAGChat.agent_excute:74] 15,开始调用llms
+[2025-02-23 16:57:55] INFO [RAGChat.agent_excute:79] 15,结束调用llms,共耗时14.773571252822876
+[2025-02-23 16:57:55] INFO [RAGChat.agent_excute:74] 16,开始调用llms
+[2025-02-23 16:58:39] INFO [RAGChat.agent_excute:79] 16,结束调用llms,共耗时43.4412055015564
+[2025-02-23 16:58:39] ERROR [RAGChat.agent_excute:83] 调用结果出错，结果如：{},即将重试
+[2025-02-23 16:58:39] INFO [RAGChat.agent_excute:74] 17,开始调用llms
+[2025-02-23 16:58:53] INFO [RAGChat.agent_excute:79] 17,结束调用llms,共耗时14.398354768753052
+[2025-02-23 16:58:53] ERROR [RAGChat.agent_excute:83] 调用结果出错，结果如：{},即将重试
+[2025-02-23 16:58:53] INFO [RAGChat.agent_excute:74] 18,开始调用llms
+[2025-02-23 16:59:10] INFO [RAGChat.agent_excute:79] 18,结束调用llms,共耗时17.139827728271484
+[2025-02-23 16:59:10] ERROR [RAGChat.agent_excute:83] 调用结果出错，结果如：{},即将重试
+[2025-02-23 16:59:10] INFO [RAGChat.agent_excute:74] 19,开始调用llms
+[2025-02-23 16:59:23] INFO [RAGChat.agent_excute:79] 19,结束调用llms,共耗时12.709290504455566
+[2025-02-23 16:59:23] ERROR [RAGChat.agent_excute:83] 调用结果出错，结果如：{},即将重试
+[2025-02-23 16:59:23] INFO [RAGChat.agent_excute:74] 20,开始调用llms
+[2025-02-23 16:59:43] INFO [RAGChat.agent_excute:79] 20,结束调用llms,共耗时19.373480319976807
+[2025-02-23 16:59:43] ERROR [RAGChat.agent_excute:83] 调用结果出错，结果如：{},即将重试
+[2025-02-23 16:59:43] INFO [RAGChat.agent_excute:74] 21,开始调用llms
+[2025-02-23 17:00:01] INFO [RAGChat.agent_excute:79] 21,结束调用llms,共耗时18.248757362365723
+[2025-02-23 17:00:01] ERROR [RAGChat.agent_excute:83] 调用结果出错，结果如：{},即将重试
+[2025-02-23 17:00:01] INFO [RAGChat.agent_excute:74] 22,开始调用llms
+[2025-02-23 17:00:20] INFO [RAGChat.agent_excute:79] 22,结束调用llms,共耗时18.726235389709473
+[2025-02-23 17:00:20] ERROR [RAGChat.agent_excute:83] 调用结果出错，结果如：{},即将重试
+[2025-02-23 17:00:20] INFO [RAGChat.agent_excute:74] 23,开始调用llms
+[2025-02-23 17:00:42] INFO [RAGChat.agent_excute:79] 23,结束调用llms,共耗时22.05398154258728
+[2025-02-23 17:00:42] ERROR [RAGChat.agent_excute:83] 调用结果出错，结果如：{},即将重试
+[2025-02-23 17:00:42] INFO [RAGChat.agent_excute:74] 24,开始调用llms
+[2025-02-23 17:00:54] INFO [RAGChat.agent_excute:79] 24,结束调用llms,共耗时12.16024923324585
+[2025-02-23 17:00:54] ERROR [RAGChat.agent_excute:83] 调用结果出错，结果如：{},即将重试
+[2025-02-23 17:00:54] INFO [RAGChat.agent_excute:74] 25,开始调用llms
+[2025-02-23 17:01:47] INFO [RAGChat.setup_logging:87] 日志系统初始化成功，日志文件: d:\deep_learning\codes\agent\logs\2025-02\ragchat_2025-02-23.log
+[2025-02-23 17:02:17] INFO [RAGChat.agent_excute:74] 1,开始调用llms
+[2025-02-23 17:02:24] INFO [RAGChat.agent_excute:79] 1,结束调用llms,共耗时6.109773635864258
+[2025-02-23 17:02:26] INFO [RAGChat.online_search:55] online_search result:['推荐的赏樱地点包括临安米积村、杭州樱花园、太子湾公园、白塔公园、良渚大屋顶、良渚四歌樱花园、滨江樱花大道、曲院风荷，这些地方在樱花盛开的季节，提供了唯美浪漫的赏花', '... 赏樱体验度最佳。 杭州樱花园开放时间：全年09:00-17:00开放. 杭州樱花园地点：杭州市余杭区瓶窑镇塘埠村西坞路边仪门岭. 杭州樱花园团购价格：30元起.', '这条跑道上种植的染井吉野樱，属于中樱，花期为3月底至4月，刚好是杭州一年中最舒服的时间，跑步、散步、骑行都很惬意。 如果想坐坐，江边也有座椅。', '赏樱花好去处——曲院风荷\u200b 作为春日西湖边的赏樱热门打卡地，是温柔与古韵的最好结合。 公园内步移景异，美丽的樱花沿着溪水绽放，绵延不绝。', '今年的气温总体没有往年高，虽然植物园的河津樱已经绽放，但那是个别，按往年的惯例，樱花的绽放是在3-4月，观赏早樱的最佳时间是3月中下旬，而观赏晚樱则是4月']
+[2025-02-23 17:02:26] INFO [RAGChat.agent_excute:74] 2,开始调用llms
+[2025-02-23 17:02:42] INFO [RAGChat.agent_excute:79] 2,结束调用llms,共耗时16.229082345962524
+[2025-02-23 17:02:42] INFO [RAGChat.agent_excute:74] 3,开始调用llms
+[2025-02-23 17:02:58] INFO [RAGChat.agent_excute:79] 3,结束调用llms,共耗时15.977149963378906
+[2025-02-23 17:02:58] INFO [RAGChat.agent_excute:74] 4,开始调用llms
+[2025-02-23 17:03:13] INFO [RAGChat.agent_excute:79] 4,结束调用llms,共耗时14.807162284851074
+[2025-02-23 17:03:13] INFO [RAGChat.agent_excute:113] 对于问题帮我写一份去杭州赏樱花的攻略的结果是：杭州赏樱花攻略已准备好。推荐的赏樱地点包括临安米积村、杭州樱花园、太子湾公园、白塔公园、良渚大屋顶、良渚四歌樱花园、滨江樱花大道和曲院风荷。这些地方在樱花盛开的季节提供了唯美浪漫的赏花体验。观赏早樱的最佳时间是3月中下旬，而观赏晚樱则是4月。此外，我们还添加了交通指南和一些实用的小贴士，确保您有一个愉快的赏樱之旅。具体内容请参见文件：hangzhou_cherry_blossom_guide.txt。
